@@ -1,0 +1,12 @@
+[
+  { "name": "Lion", "type": "Mammal", "age": "10" },
+  { "name": "Parrot", "type": "Bird", "age": "5" },
+  { "name": "Crocodile", "type": "Reptile", "age": "20" },
+  { "name": "Elephant", "type": "Mammal", "age": "25" },
+  { "name": "Flamingo", "type": "Bird", "age": "15" },
+  { "name": "Turtle", "type": "Reptile", "age": "100" },
+  { "name": "Giraffe", "type": "Mammal", "age": "12" },
+  { "name": "Penguin", "type": "Bird", "age": "8" },
+  { "name": "Anaconda", "type": "Reptile", "age": "30" },
+  { "name": "Zebra", "type": "Mammal", "age": "9" }
+]
